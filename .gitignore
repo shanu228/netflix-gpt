@@ -21,3 +21,11 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# ----------------------
+# Steps for Deployment:
+# Install firebase CLI - npm install -g firebase-tools
+# Firebase Login - firebase login
+# Initilize Firebase - firebase init, then select Hosting
+# Deploy command - firebase deploy
+
