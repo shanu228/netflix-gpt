@@ -22,6 +22,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+
+.env
+
 # ----------------------
 # Steps for Deployment:
 # Install firebase CLI - npm install -g firebase-tools
